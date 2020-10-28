@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.scss';
 
 function App() {
@@ -12,7 +11,7 @@ function App() {
                     </li>
                     <li class="separate_right">8 (812) 123-45-67</li>
                     <span class="upline_separate">|</span>
-                    <li>Работаем 7 дней в неделю</li>
+                    <li>Работаем 7дней в неделю</li>
                     <span class="upline_separate">|</span>
                     <li>9:00 — 18:00</li>
                 </ul>
